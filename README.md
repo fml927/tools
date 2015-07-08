@@ -1,6 +1,6 @@
 # tools
 
-Notes By FML!!!
+Notes By FML927
 
 ### Host: 
 ubuntu 12.04-32bit
@@ -16,7 +16,7 @@ gcc veersion 4.8.3
 ### config:
 download and config it cross compile for app.
 
-config:(![ref](http://blog.csdn.net/embbnux/article/details/17360315))
+config:(<http://blog.csdn.net/embbnux/article/details/17360315>)
 
 '''
 export PATH=$PATH:/......../arm-bcm2708hardfp-linux-gnueabi/bin
