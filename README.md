@@ -10,7 +10,9 @@ Raspberry Pi 2
 
 ### used Tools version: 
 fold "arm-bcm2708/arm-bcm2708hardfp-linux-gnueabi"
+
 version SHA:f5642106425d430e1f82ee064121a5fd0e05a386
+
 gcc veersion 4.8.3
 
 ### config:
@@ -28,4 +30,5 @@ can add the two line to "gedit ~/.bashrc"
 
 ### usage example: 
 (tool name is a file name in fold ./arm-bcm2708/arm-bcm2708hardfp-linux-gnueabi/bin)
+
 arm-linux-bnueabihf-gcc -o hello helllo.c
