@@ -20,10 +20,8 @@ config:(<http://blog.csdn.net/embbnux/article/details/17360315>)
 
 in shell:
 
-`export PATH=$PATH:/......../arm-bcm2708hardfp-linux-gnueabi/bin`
-
-`export CFLAGS="-O2 -pipe -mcpu=arm1176jzf-s -mfpu=vfp -mfloat-abi=hard -w" `
-
+>  `export PATH=$PATH:/......../arm-bcm2708hardfp-linux-gnueabi/bin`
+>  `export CFLAGS="-O2 -pipe -mcpu=arm1176jzf-s -mfpu=vfp -mfloat-abi=hard -w" `
 
 can add the two line to "gedit ~/.bashrc"
 
